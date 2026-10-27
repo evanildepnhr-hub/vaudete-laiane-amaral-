@@ -1,0 +1,23 @@
+BIBLIOTECA DIGITAL — COMO EXECUTAR
+
+1. Extraia o arquivo biblioteca_digital.zip para uma pasta do computador.
+2. Abra a pasta e dê dois cliques no arquivo index.html.
+3. O sistema abrirá no navegador. Não precisa instalar nada nem ter internet para usar as funções principais.
+4. Clique em “Cadastrar livro” para adicionar livros ao acervo.
+5. Use a busca e os filtros para localizar livros, marque os que já leu e salve favoritos.
+
+FUNCIONALIDADES
+- Cadastro, edição e exclusão de livros
+- Busca por título, autor, categoria e descrição
+- Filtros por categoria
+- Marcar leitura concluída e favoritar
+- Link opcional para leitura e capa personalizada
+- Indicadores de quantidade de livros, categorias e lidos
+- Layout adaptável a computador e celular
+
+IMPORTANTE
+- Os dados são salvos no armazenamento local (localStorage) do navegador e ficam neste dispositivo/navegador.
+- Limpar os dados do navegador pode apagar o acervo. Para usar em outro dispositivo, será necessário cadastrar os livros novamente.
+- O sistema não possui contas de usuário, banco de dados online nem upload de arquivos de livros. O link de leitura é opcional e abre um endereço informado por você.
+- Os livros de exemplo são apenas demonstrações; os links podem levar a páginas informativas, não necessariamente ao texto integral.
+- Use links para obras que você tenha autorização para acessar ou compartilhar.
